@@ -2,3 +2,5 @@
 .idea/
 target
 *.iml
+apache-activemq-5.14.3*
+activemq-data
